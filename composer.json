@@ -1,6 +1,6 @@
 {
     "name": "lstellway/wp-uploads-mirror-s3",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "WordPress plugin to mirror uploads directory to S3 bucket",
     "license": "MIT",
     "type": "wordpress-muplugin",

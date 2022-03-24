@@ -11,7 +11,7 @@ Author URI: https://github.com/lstellway/
 
 namespace LStellway\Uploads;
 
-if (!defined('ABSPATH') || !function_exists('is_blog_installed()') || !is_blog_installed()) {
+if (!defined('ABSPATH') || !function_exists('is_blog_installed') || !is_blog_installed()) {
     return;
 }
 
