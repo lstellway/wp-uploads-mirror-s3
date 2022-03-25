@@ -2,6 +2,14 @@
 
 WordPress plugin to mirror uploads directory to an S3 bucket.
 
+## Installation
+
+**Composer**
+
+```sh
+composer require lstellway/wp-uploads-mirror-s3
+```
+
 ## Dependencies
 
 This plugin utilizes the [PHP AWS SDK](https://github.com/aws/aws-sdk-php), and as a result should support any configuration options native to the SDK. Refer to the [SDK documentation](https://docs.aws.amazon.com/sdk-for-php/v3/developer-guide/guide_index.html) for more details.
